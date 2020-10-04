@@ -1,0 +1,12 @@
+.clock-days,
+.clock-hours,
+.clock-minutes,
+.clock-seconds {
+  display: inline;
+  margin: 10px;
+}
+
+.clock {
+  font-size: 30px;
+  text-align: center;
+}
