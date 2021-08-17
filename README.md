@@ -4,4 +4,4 @@ A countdown timer which counts down from a given date.
 
 ## Technologies used
 
-React, TypeScript, Bootstrap 5
+React, TypeScript, Bootstrap
